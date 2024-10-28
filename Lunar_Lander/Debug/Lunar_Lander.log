@@ -1,0 +1,4 @@
+﻿  Map.cpp
+C:\Users\User\source\repos\Lunar_Lander\Lunar_Lander\Map.cpp(99,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Lunar_Lander\Lunar_Lander\Map.cpp(100,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Lunar_Lander.vcxproj -> C:\Users\User\source\repos\Lunar_Lander\Debug\Lunar_Lander.exe
